@@ -1,0 +1,1 @@
+This is a Java game setup that I made in the ninth grade. Consists of two games "tic-tac-toe" and "Connect 4". they are also connected to databases that save the score of two players or one player and the computer, since you can also play against the computer.
